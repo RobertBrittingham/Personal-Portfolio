@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/personal-portfolio/static/css/main.49ea7490.css",
-    "main.js": "/personal-portfolio/static/js/main.5931cf0b.js",
-    "static/js/453.676b9ed8.chunk.js": "/personal-portfolio/static/js/453.676b9ed8.chunk.js",
-    "static/media/pfp.JPG": "/personal-portfolio/static/media/pfp.c144dd3e3f0746dceebc.JPG",
-    "static/media/getInTouch.png": "/personal-portfolio/static/media/getInTouch.70e54ac10ecd222d4b64.png",
-    "static/media/wolfLogo.png": "/personal-portfolio/static/media/wolfLogo.093ffd7f08279001845c.png",
-    "static/media/meter1.png": "/personal-portfolio/static/media/meter1.e081666914f647a5384f.png",
-    "static/media/meter4.png": "/personal-portfolio/static/media/meter4.631246c88bd26ed334a5.png",
-    "static/media/meter3.png": "/personal-portfolio/static/media/meter3.43f79fbc95213ee4267a.png",
-    "static/media/meter2.png": "/personal-portfolio/static/media/meter2.66b9030d72e8e0a0e9c9.png",
-    "static/media/icon4.png": "/personal-portfolio/static/media/icon4.6ddfff3ba41251ef7e33.png",
-    "static/media/banner.png": "/personal-portfolio/static/media/banner.c9f1295325358a569d5a.png",
-    "static/media/skillbg.jpg": "/personal-portfolio/static/media/skillbg.b4753ebee2b95ee1749b.jpg",
-    "static/media/revicons.eot": "/personal-portfolio/static/media/revicons.a77de540a38981833f9e.eot",
-    "static/media/revicons.ttf": "/personal-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
-    "static/media/revicons.woff": "/personal-portfolio/static/media/revicons.e8746a624ed098489406.woff",
-    "index.html": "/personal-portfolio/index.html",
-    "main.49ea7490.css.map": "/personal-portfolio/static/css/main.49ea7490.css.map",
-    "main.5931cf0b.js.map": "/personal-portfolio/static/js/main.5931cf0b.js.map",
-    "453.676b9ed8.chunk.js.map": "/personal-portfolio/static/js/453.676b9ed8.chunk.js.map"
+    "main.css": "/Personal-Portfolio/static/css/main.4ea11b28.css",
+    "main.js": "/Personal-Portfolio/static/js/main.e0a02f11.js",
+    "static/js/453.676b9ed8.chunk.js": "/Personal-Portfolio/static/js/453.676b9ed8.chunk.js",
+    "static/media/pfp.JPG": "/Personal-Portfolio/static/media/pfp.c144dd3e3f0746dceebc.JPG",
+    "static/media/getInTouch.png": "/Personal-Portfolio/static/media/getInTouch.70e54ac10ecd222d4b64.png",
+    "static/media/wolfLogo.png": "/Personal-Portfolio/static/media/wolfLogo.093ffd7f08279001845c.png",
+    "static/media/meter1.png": "/Personal-Portfolio/static/media/meter1.e081666914f647a5384f.png",
+    "static/media/meter4.png": "/Personal-Portfolio/static/media/meter4.631246c88bd26ed334a5.png",
+    "static/media/meter3.png": "/Personal-Portfolio/static/media/meter3.43f79fbc95213ee4267a.png",
+    "static/media/meter2.png": "/Personal-Portfolio/static/media/meter2.66b9030d72e8e0a0e9c9.png",
+    "static/media/icon4.png": "/Personal-Portfolio/static/media/icon4.6ddfff3ba41251ef7e33.png",
+    "static/media/banner.png": "/Personal-Portfolio/static/media/banner.c9f1295325358a569d5a.png",
+    "static/media/skillbg.jpg": "/Personal-Portfolio/static/media/skillbg.b4753ebee2b95ee1749b.jpg",
+    "static/media/revicons.eot": "/Personal-Portfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/Personal-Portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/Personal-Portfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/Personal-Portfolio/index.html",
+    "main.4ea11b28.css.map": "/Personal-Portfolio/static/css/main.4ea11b28.css.map",
+    "main.e0a02f11.js.map": "/Personal-Portfolio/static/js/main.e0a02f11.js.map",
+    "453.676b9ed8.chunk.js.map": "/Personal-Portfolio/static/js/453.676b9ed8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.49ea7490.css",
-    "static/js/main.5931cf0b.js"
+    "static/css/main.4ea11b28.css",
+    "static/js/main.e0a02f11.js"
   ]
 }
