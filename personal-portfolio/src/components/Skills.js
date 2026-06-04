@@ -37,19 +37,19 @@ export const Skills = () => {
               <p>Quick Overview of my skill-level</p>
               <Carousel responsive={responsive} infinite={true} className="owl-carousel owl-theme skill-slider">
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>Java</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>Html</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>Css</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>JavaScript</h5>
                 </div>
                 <div className="item">
@@ -57,7 +57,7 @@ export const Skills = () => {
                   <h5>SQL</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>React</h5>
                 </div>
                 <div className="item">
@@ -65,11 +65,11 @@ export const Skills = () => {
                   <h5>NodeJs</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>3D-Modeling</h5>
                 </div>
                 <div className="item">
-                  <img src={meter1} alt="Image" />
+                  <img src={meter2} alt="Image" />
                   <h5>Web Development</h5>
                 </div>
                 <div className="item">

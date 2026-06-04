@@ -57,7 +57,7 @@ export const Banner = () => {
                 <div className={isVisible ? "animate__animated animate__fadeIn" : ""}>
                   <span className="tagline">Welcome to my Portfolio</span>
                   <h1>{`Hi! I'm Robert, I'm a`} <span className="txt-rotate" dataPeriod="1000" data-rotate='[ "Web Developer", "Web Designer", "UI/UX Designer", "Software Engineer/ Software Developer", "Frontend Developer", "Backend Developer" ] " ]'><span className="wrap">{text}</span></span></h1>
-                  <p>I am a recent B.S. Computer Science graduate (Class of 2026) with a passion for technology, creativity, and continuous learning. I enjoy coding, 3D modeling, art, anime, and listening to music, all of which inspire my creativity and problem-solving approach. I’m an outgoing person who enjoys trying new things, collaborating with others, and expanding my skills through new experiences. As an aspiring developer, I am always eager to learn, grow, and take on new challenges in the tech industry.
+                  <p>I am a recent B.A. Computer Science graduate (Class of 2026) with a passion for technology, creativity, and continuous learning. I enjoy coding, 3D modeling, art, anime, and listening to music; all of which inspire my creativity and problem-solving approach. I’m an outgoing person who enjoys trying new things, collaborating with others, and expanding my skills through new experiences. As an aspiring developer, I am always eager to learn, grow, and take on new challenges in the tech industry.
                   </p>
 
                   <a href="/Robert Brittingham Resume.pdf" download className="resume-btn">Download Resume<ArrowRightCircle size={25}></ArrowRightCircle></a>
